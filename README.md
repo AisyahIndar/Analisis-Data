@@ -40,7 +40,7 @@ Pastikan Anda memiliki Python terinstal di sistem Anda.
  - Pastikan semua dependensi sudah terinstal.
  - Jalankan aplikasi Streamlit dengan perintah berikut di terminal:
     ```bash
-    streamlit run dashboard/dashboard.py
+    streamlit run dasboard/dasboard.py
 Setelah perintah dijalankan, dashboard akan terbuka secara otomatis di browser Anda.
 
 # Struktur Projek 
