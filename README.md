@@ -45,7 +45,8 @@ Setelah perintah dijalankan, dashboard akan terbuka secara otomatis di browser A
 
 # Struktur Projek 
 submission
-├───dashboard
+ ```bash
+ ├───dashboard
 | ├───main_data.csv
 | └───dashboard.py
 ├───data
