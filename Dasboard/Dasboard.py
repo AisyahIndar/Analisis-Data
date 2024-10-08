@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.title("Dashboard Analisis Penyewaan Sepeda Tahun 2011-2012")
 
 # Membaca dataset
-data = pd.read_csv('main_data.csv')
+data = pd.read_csv('Dasboard/main_data.csv')
 
 # --- Visualisasi Penyewaan Berdasarkan Tahun ---
 st.subheader("Jumlah Penyewaan Sepeda Berdasarkan Tahun")
